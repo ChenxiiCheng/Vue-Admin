@@ -2,6 +2,10 @@
 
 > 一个基于Vue大礼包制作的后台管理系统项目
 
+[Vue-Admin | Netlify](https://admin.chenxii.xyz)
+
+[Vue-Admin | GitHub Page](https://chenxiicheng.github.io/Vue-Admin)
+
 #### **Preview | 预览**
 
 ![image-20191025005411598](./imgs/admin1.png)
