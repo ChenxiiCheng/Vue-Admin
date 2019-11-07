@@ -4,15 +4,15 @@
 
 #### **Preview | 预览**
 
-![image-20191025005411598](/Users/chenxi/Library/Application Support/typora-user-images/image-20191025005411598.png)
+![image-20191025005411598](./imgs/admin1.png)
 
 
 
-![image-20191025005419453](/Users/chenxi/Library/Application Support/typora-user-images/image-20191025005419453.png)
+![image-20191025005419453](./imgs/admin2.png)
 
 
 
-![image-20191025005427629](/Users/chenxi/Library/Application Support/typora-user-images/image-20191025005427629.png)
+![image-20191025005427629](./imgs/admin3.png)
 
 
 
