@@ -6,7 +6,7 @@
       </router-link>
       <div class="info-panel">
         <span class="user">欢迎，Chenxi</span>
-        <router-link to="/">退出</router-link>
+        <router-link to="/" class="quit">退出</router-link>
       </div>
     </div>
   </div>
@@ -34,6 +34,9 @@ export default {};
       line-height: 52px;
       .user {
         margin-right: 20px;
+      }
+      .quit {
+        text-decoration: none;
       }
     }
   }
